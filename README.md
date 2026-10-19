@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm Bochaberi!
 
-<!--
-**nellybochaberinduko-cloud/nellybochaberinduko-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student | ☁️ Aspiring Cloud & DevOps Engineer | 💻 Tech Enthusiast**
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently pursuing a degree in Information Technology.
+- 🌱 I'm currently learning Web Development.
+- ☁️ I'm interested in Cloud Computing and DevOps.
+- 🛠️ I enjoy learning new technologies and solving problems.
+- 📫 **How to reach me:** nellybochaberinduko@gmail.com
+- 😄 **Pronouns:** She/Her
+- 🚀 **Fun fact:** I'm on a mission to turn my curiosity about technology into a career in Cloud & DevOps!
